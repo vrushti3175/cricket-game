@@ -1,0 +1,48 @@
+body {
+  text-align: center;
+  background-color: green;
+  color: white;
+  font-size: medium;
+}
+
+.choice-button {
+  height: 85px;
+  width: 85px;
+  border: none;
+  margin: 10px;
+  background-color: rgb(164, 212, 130);
+  border-radius: 50px;
+  cursor: pointer;
+}
+
+.choice-image {
+  height: 75px;
+}
+.restart{
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  rotate: 90deg;
+  translate: -50%;
+  text-align: center;
+  margin-left: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.head{   
+    
+    margin-left:85%;
+  
+  }
+
+
+.i{
+  font-size: medium;
+  color: white;
+}
+
+.selects h2{
+  text-decoration: none;
+  font-size: large;
+}
